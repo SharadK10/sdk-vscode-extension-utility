@@ -5,6 +5,7 @@
 
 
 A VS Code extension that generates SDK utility files and provides context-aware integration instructions by analyzing your existing codebase.
+powered by digital Ocean's Gradient AI agents and knowledge bases.
 
 
 ## What It Does
