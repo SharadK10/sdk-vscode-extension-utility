@@ -123,8 +123,7 @@ async function callAiApi(userMessage) {
     
     const headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer ppS7y_gNEbilBwxWcUX6hHGd5KgICUAa',
-        'Cookie': '__cf_bm=n_63HgIOMQV7PErUWJvcltIlWvCcik1aoXb_caXnhuA-1759571800-1.0.1.1-Ekn52j6fyKgfPeLpLBx_iFEMD0rinn2HMFZ6lRNwUWSdwqVLfiNM4.aT8AIKho0EQBUfXIGmHJmRHrdu24GL1CsICT.m4u3cWOCjdM7BCLc'
+        'Authorization': 'Bearer API_KEY'
     };
     
     try {
